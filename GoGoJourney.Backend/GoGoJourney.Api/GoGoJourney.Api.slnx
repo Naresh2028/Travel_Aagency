@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../GoGoJourney.Application/GoGoJourney.Application.csproj" Id="dd03939e-064c-4406-a43e-b10e714a9502" />
+  <Project Path="../GoGoJourney.Domain/GoGoJourney.Domain.csproj" Id="73cf347f-2cdc-4bcb-a28a-463df48fe79d" />
+  <Project Path="../GoGoJourney.Infrastructure/GoGoJourney.Infrastructure.csproj" Id="2f9b1a80-35db-4b5e-b72a-1e0ecc4e83bf" />
+  <Project Path="../GoGoJourney.Tests/GoGoJourney.Tests.csproj" Id="41b0de64-75e5-4f74-8b13-08a502fcc0c7" />
+  <Project Path="GoGoJourney.Api.csproj" />
+</Solution>
